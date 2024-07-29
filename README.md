@@ -9,7 +9,7 @@ This repository contains the dataset and code used in the paper "Quantitative An
 We compiled copyright infringement cases from a variety of sources to create a comprehensive dataset:
 
 1. **Yuan (2023)**: Provided updated metadata with perceptual data.
-2. **Music Copyright Infringement Resource (MCIR, 2018)**: Available at [MCIR](https://blogs.law.gwu.edu/mcir/)
+2. **Music Copyright Infringement Resource (MCIR)**: Available at [MCIR](https://blogs.law.gwu.edu/mcir/)
 3. **Lost in Music by Westminster Law School**: Available at [Lost in Music](https://www.lostinmusic.org/)
 
 The final dataset includes a total of 116 cases (Infringed: 33, Denied: 66, Settled: 17).
