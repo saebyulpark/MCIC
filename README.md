@@ -1,8 +1,11 @@
-# Quantitative Analysis of Melodic Similarity in Music Copyright Infringement Cases (site is still under construction)
+# Quantitative Analysis of Melodic Similarity in Music Copyright Infringement Cases 
 
 ## Introduction
 
 This repository contains the dataset and code used in the paper "Quantitative Analysis of Melodic Similarity in Music Copyright Infringement Cases" presented at ISMIR 2024. The dataset includes 116 cases of melodic infringement (MIDI files, sheet music), and the code employs the Tversky index for similarity analysis. Additionally, this study utilizes natural language processing (NLP) techniques to measure melodic similarity objectively.
+
+Note: The site is still under construction.
+
 
 ## Dataset Description
 
