@@ -9,17 +9,32 @@ Note: The site is still under construction.
 
 ## Dataset Description
 
-We compiled copyright infringement cases from a variety of sources to create a comprehensive dataset:
+We compiled a comprehensive dataset of copyright infringement cases from multiple sources:
 
-1. **Yuan (2023)**: Provided updated metadata with perceptual data.
-2. **Music Copyright Infringement Resource (MCIR)**: Available at [MCIR](https://blogs.law.gwu.edu/mcir/)
-3. **Lost in Music by Westminster Law School**: Available at [Lost in Music](https://www.lostinmusic.org/)
+- **Yuan (2023):** Includes updated metadata with perceptual data.
+- **Music Copyright Infringement Resource (MCIR):** [MCIR](https://blogs.law.gwu.edu/mcir/)
+- **Lost in Music by Westminster Law School:** [Lost in Music](https://www.lostinmusic.org/)
 
-The final dataset includes a total of 116 cases (Infringed: 33, Denied: 66, Settled: 17).
+The final dataset comprises 116 cases (Infringed: 33, Denied: 66, Settled: 17).
 
-For detailed information on the transcription process and more results, please refer to this document: [Transcription Details](https://docs.google.com/document/d/1LxcY9rqn1MepNODICntibbvZvVgO7M4fb09eALphJTE/edit?usp=sharing)
+For more details on the transcription process and additional results, refer to the [Supplementary Document](https://docs.google.com/document/d/1LxcY9rqn1MepNODICntibbvZvVgO7M4fb09eALphJTE/edit?usp=sharing), which includes the following appendices:
 
-For the full description and selection criteria of all cases, please refer to the following document: [Case Description and Selection](https://docs.google.com/spreadsheets/d/1eBYHDWRLVL-3-Ze28-dyPLcJHIEUETiFUZzf_fGZ6uU/edit?usp=sharing)
+- **Appendix 1:** Dataset Description of Melodic Copyright Cases
+- **Appendix 2:** Data Statistics
+- **Appendix 3:** Weights Statistics
+- **Appendix 4:** Additional Results
+- **Appendix 5:** Extended Case Studies
+
+For the MCIC list and metadata, which includes:
+
+- Court Decision
+- Music Source and Parts
+- Reference Sites
+- Summary of Judgment Grounds
+- Grounds for Dataset Selection from MCIR
+
+see [MCIC List and Metadata](https://docs.google.com/spreadsheets/d/1eBYHDWRLVL-3-Ze28-dyPLcJHIEUETiFUZzf_fGZ6uU/edit?usp=sharing).
+
 
 ## Tutorial
 The tutorial covers the following steps using two songs:
