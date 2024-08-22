@@ -17,7 +17,7 @@ We compiled copyright infringement cases from a variety of sources to create a c
 
 The final dataset includes a total of 116 cases (Infringed: 33, Denied: 66, Settled: 17).
 
-For detailed information on the transcription process, please refer to this document: [Transcription Details](https://docs.google.com/document/d/1LxcY9rqn1MepNODICntibbvZvVgO7M4fb09eALphJTE/edit?usp=sharing)
+For detailed information on the transcription process and more results, please refer to this document: [Transcription Details](https://docs.google.com/document/d/1LxcY9rqn1MepNODICntibbvZvVgO7M4fb09eALphJTE/edit?usp=sharing)
 
 For the full description and selection criteria of all cases, please refer to the following document: [Case Description and Selection](https://docs.google.com/spreadsheets/d/1eBYHDWRLVL-3-Ze28-dyPLcJHIEUETiFUZzf_fGZ6uU/edit?usp=sharing)
 
