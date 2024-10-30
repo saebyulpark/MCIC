@@ -45,7 +45,7 @@ The tutorial covers the following steps using two songs:
 
 For a detailed step-by-step guide, please refer to the [Tutorial.ipynb](Tutorial.ipynb).
 
-Additionally, the code for the newly implemented method `TV_by_element` (extracting Tversky individual scores by element) is provided here: [TVelement.ipynb](TVelement.ipynb).
+Additionally, the code for the newly implemented method, `modified Tversky Measure` (measuring individual scores by element), is provided here: [Modified Tversky Measure for Elements.ipynb](https://colab.research.google.com/drive/1jnwict4GttXxo4metpaXbrTFMxY6yqci?usp=sharing).
 
 ## Contact
 For questions or further information, please contact [saebyul_parkl@kaist.ac.kr].
