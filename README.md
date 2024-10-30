@@ -48,7 +48,7 @@ For a detailed step-by-step guide, please refer to the [Tutorial.ipynb](Tutorial
 Additionally, the code for the newly implemented method, `modified Tversky Measure` (measuring individual scores by element), is provided here: [Modified Tversky Measure for Elements.ipynb](https://colab.research.google.com/drive/1jnwict4GttXxo4metpaXbrTFMxY6yqci?usp=sharing).
 
 ## Contact
-For questions or further information, please contact [saebyul_parkl@kaist.ac.kr].
+For questions or further information, please contact [saebyul_park@kaist.ac.kr].
 
 ---
 
