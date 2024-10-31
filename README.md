@@ -43,7 +43,7 @@ The tutorial covers the following steps using two songs:
 2. **Calculate Tversky and TF-IDF scores for each element**.
 3. **Compute similarity using a Word2Vec (W2V) model**.
 
-For a detailed step-by-step guide, please refer to the [Tutorial.ipynb](Tutorial.ipynb).
+For a detailed step-by-step guide, please refer to the [Tutorial.ipynb](https://colab.research.google.com/drive/1o3f2hh5DdasO4a_4XbVlu5LzWeWn2gP7?usp=sharing).
 
 Additionally, the code for the newly implemented method, `modified Tversky Measure` (measuring individual scores by element), is provided here: [Modified Tversky Measure for Elements.ipynb](https://colab.research.google.com/drive/1jnwict4GttXxo4metpaXbrTFMxY6yqci?usp=sharing).
 
