@@ -16,7 +16,7 @@ We compiled a comprehensive dataset of copyright infringement cases from multipl
 - **Yuan (2023):** Includes updated metadata with perceptual data.
 
 
-The final dataset comprises 116 cases (Infringed: 33, Denied: 66, Settled: 17).
+The final dataset comprises 116 cases (Infringed: 32, Denied: 66, Settled: 18).
 
 For more details on the transcription process and additional results, refer to the [Supplementary Document](https://docs.google.com/document/d/1LxcY9rqn1MepNODICntibbvZvVgO7M4fb09eALphJTE/edit?usp=sharing), which includes the following appendices:
 
@@ -34,14 +34,14 @@ For the MCIC list and metadata, which includes:
 - Summary of Judgment Grounds
 - Grounds for Dataset Selection from MCIR
 
-see [MCIC List and Metadata](https://docs.google.com/spreadsheets/d/1eBYHDWRLVL-3-Ze28-dyPLcJHIEUETiFUZzf_fGZ6uU/edit?usp=sharing).
+see [MCIC List and Metadata](https://docs.google.com/spreadsheets/d/1dzVled_Zb813IGAzZ-qO2uJJpkGbb-MSfvULyLiIdh8/edit?usp=sharing)
 
 
 ## Tutorial
 The tutorial covers the following steps using two songs:
 
 1. **Tokenize the melodies into words using Mel2Word**.
-2. **Calculate Tversky and TF-IDF scores for each element**.
+2. **Calculate modified-Tversky and TF-IDF scores for each element**.
 3. **Compute similarity using a Word2Vec (W2V) model**.
 
 For a detailed step-by-step guide, please refer to the [Tutorial.ipynb](https://colab.research.google.com/drive/1o3f2hh5DdasO4a_4XbVlu5LzWeWn2gP7?usp=sharing).
