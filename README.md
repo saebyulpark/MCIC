@@ -2,10 +2,16 @@
 
 ## Introduction
 
-This repository contains the dataset and code used in the paper "Quantitative Analysis of Melodic Similarity in Music Copyright Infringement Cases" presented at ISMIR 2024. The dataset includes 116 cases of melodic infringement (MIDI files, sheet music), and the code employs the Tversky index for similarity analysis. Additionally, this study utilizes natural language processing (NLP) techniques to measure melodic similarity objectively.
 
-Note: The site is still under construction.
+This repository provides resources, code, and documentation for the study "*Quantitative Analysis of Melodic Similarity in Music Copyright Infringement Cases*," presented at *ISMIR 2024*. This study compiles a comprehensive dataset of music copyright infringement cases, aiming to quantify and analyze melodic similarity through advanced Natural Language Processing (NLP) techniques. This approach facilitates a more objective and scalable analysis of musical similarity, addressing both legal and perceptual aspects in assessing substantial similarity in copyright cases.
 
+The core dataset, *Music Copyright Infringement Cases (MCIC)*, drawn from multiple authoritative sources—including the Music Copyright Infringement Resource (MCIR), *Lost in Music* by Westminster Law School, and recent updates from Yuan (2023)—comprises 116 cases categorized as *Infringed*, *Denied*, or *Settled*. The *MCIC* includes detailed summaries of each case, providing essential insights for computational assessment of melody similarity and enhancing transparency in copyright analysis. [MCIC List](https://docs.google.com/spreadsheets/d/1dzVled_Zb813IGAzZ-qO2uJJpkGbb-MSfvULyLiIdh8/edit?gid=769190082#gid=769190082)
+
+Our methods employ advanced Natural Language Processing (NLP) techniques, including a *Mel2Word* approach, which tokenizes melodies using Byte Pair Encoding (BPE). We calculate similarity scores based on embedding distances that capture semantic meaning, applying our proposed weighting system: the modified Tversky measure and TF-IDF weighting. This approach reflects word salience, importance, and uniqueness at the element level.
+
+The tutorial provides a step-by-step guide to these processes, using practical examples of two songs and includes code for the modified Tversky Measure to compute individual element scores.
+
+Please refer to the full paper for an in-depth analysis of our findings and methodology (link to be provided).
 
 ## Dataset Description
 
@@ -23,8 +29,8 @@ For more details on the transcription process and additional results, refer to t
 - **Appendix 1:** Dataset Description of Melodic Copyright Cases
 - **Appendix 2:** Data Statistics
 - **Appendix 3:** Weights Statistics
-- **Appendix 4:** Additional Results
-- **Appendix 5:** Extended Case Studies
+- **Appendix 4:** Extended Case Studies
+- **Appendix 5:** Additional Results
 
 For the MCIC list and metadata, which includes:
 
