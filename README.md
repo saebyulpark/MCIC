@@ -19,7 +19,7 @@ We compiled a comprehensive dataset of copyright infringement cases from multipl
 
 - **Music Copyright Infringement Resource (MCIR):** [MCIR](https://blogs.law.gwu.edu/mcir/)
 - **Lost in Music by Westminster Law School:** [Lost in Music](https://www.lostinmusic.org/)
-- **Yuan (2023):** Includes updated metadata with perceptual data.
+- **Yuan (2023):** Includes metadata with perceptual data. [GIT](https://github.com/comp-music-lab/music-copyright)
 
 
 The final dataset comprises 116 cases (Infringed: 32, Denied: 66, Settled: 18).
