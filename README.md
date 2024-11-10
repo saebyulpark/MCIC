@@ -29,8 +29,8 @@ For more details on the transcription process and additional results, refer to t
 - **Appendix 1:** Dataset Description of Melodic Copyright Cases
 - **Appendix 2:** Data Statistics
 - **Appendix 3:** Weights Statistics
-- **Appendix 4:** Additional Results
-- **Appendix 5:** Extended Case Studies
+- **Appendix 4:** Extended Case Studies
+- **Appendix 5:** Additional Results
 
 For the MCIC list and metadata, which includes:
 
