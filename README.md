@@ -11,7 +11,7 @@ Our methods employ advanced Natural Language Processing (NLP) techniques, includ
 
 The tutorial provides a step-by-step guide to these processes, using practical examples of two songs and includes code for the modified Tversky Measure to compute individual element scores.
 
-Please refer to the full paper for an in-depth analysis of our findings and methodology [Paper](https://drive.google.com/uc?export=download&id=1WGaNhVIV2MWEcRnyc7S0pV_AjB27z7dQ).
+Please refer to the full paper for an in-depth analysis of our findings and methodology [[Paper Link]](https://drive.google.com/uc?export=download&id=1WGaNhVIV2MWEcRnyc7S0pV_AjB27z7dQ).
 
 ## Dataset Description
 
